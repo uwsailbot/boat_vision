@@ -1,0 +1,6 @@
+Point left
+Point right
+CamStats cam
+float64 spacing
+---
+PolarPoint target
